@@ -47,4 +47,4 @@ For questions or collaborations, you can reach out to [jdochoa.09@gmail.com](mai
 
 Let's unravel the stories hidden within our national parks' biodiversity data!
 
-[Explore the Data](data/)
+[Explore the Data](biodiversity.ipynb/)
